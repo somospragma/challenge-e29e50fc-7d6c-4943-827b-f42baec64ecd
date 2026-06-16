@@ -1,0 +1,2 @@
+SELECT * FROM clientes
+WHERE id = :id;
